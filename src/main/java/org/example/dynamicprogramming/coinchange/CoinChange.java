@@ -1,4 +1,4 @@
-package org.example.coinchange;
+package org.example.dynamicprogramming.coinchange;
 
 /*
 The Coin Change problem is a classic dynamic programming problem.
